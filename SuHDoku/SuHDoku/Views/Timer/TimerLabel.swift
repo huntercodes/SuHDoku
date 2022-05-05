@@ -9,7 +9,7 @@ import SwiftUI
 
 struct TimerLabel: View {
     @EnvironmentObject var gt: GameTimer
-    //hourglass.circle
+ 
     // A label used to show puzzle duration
     var body: some View {
         HStack {
