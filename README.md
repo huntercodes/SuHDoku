@@ -15,3 +15,6 @@ Sudoku Puzzle Generator and Solver.
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 51 57](https://user-images.githubusercontent.com/85328038/168903077-1943e525-223b-4d21-b1be-3028e4a7a35c.png)
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 53 13](https://user-images.githubusercontent.com/85328038/168903085-c66896de-4807-44ba-aeba-150748f8542d.png)
+
+![Apple iPad Pro 13 Inch](https://user-images.githubusercontent.com/85328038/168958318-03102a42-8e04-421b-bd5c-d829145a60bf.png)
+![Apple iPad Pro 13 Inch (3)](https://user-images.githubusercontent.com/85328038/168958326-02dcc26b-0b31-44e6-95b4-a8c736ae630b.png)
