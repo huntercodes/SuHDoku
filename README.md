@@ -4,10 +4,11 @@ Sudoku Puzzle Generator and Solver.
 - Swift
 - SwiftUI
 - Sudoku Generator/Solver
+- Google AdMob (Banner and Interstitial)
+- App Tracking Transparency
 - iOS/iPadOS
 - Custom Font Files
 - Light/Dark Modes
-- Google AdMob (Banner and Interstitial)
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 52 53](https://user-images.githubusercontent.com/85328038/168903053-8e05afd1-57f5-4d6d-a3b5-cc4e03ed4000.png)
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 51 19](https://user-images.githubusercontent.com/85328038/168903063-1562b0ce-277d-4428-8198-e910da92df29.png)
