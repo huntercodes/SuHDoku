@@ -1,3 +1,8 @@
-target 'SuHDoku' do
-  pod 'Google-Mobile-Ads-SDK'
+
+target 'SpotifyUIKit' do
+ use_frameworks!
+
+ pod 'SDWebImage'
+ pod 'Appirater'
+ pod 'Firebase'
 end
