@@ -1,9 +1,8 @@
 # SuHDoku
 Sudoku Puzzle Generator and Solver.
 
-- Swift
-- SwiftUI
-- Sudoku Generator/Solver
+- Swift / SwiftUI
+- Sudoku Generator / Sudoku Solver
 - Google AdMob (Banner and Interstitial)
 - App Tracking Transparency
 - iOS/iPadOS
