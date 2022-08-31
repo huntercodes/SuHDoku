@@ -1,20 +1,22 @@
 # SuHDoku
 Sudoku Puzzle Generator and Solver.
 
+### Technologies Used
+
 - Swift / SwiftUI
 - Sudoku Generator / Sudoku Solver
 - Google AdMob (Banner and Interstitial)
 - App Tracking Transparency
 - iOS / iPadOS
 - Custom Font Files
-- Light / Dark Modes
 
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 52 53](https://user-images.githubusercontent.com/85328038/168903053-8e05afd1-57f5-4d6d-a3b5-cc4e03ed4000.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 51 19](https://user-images.githubusercontent.com/85328038/168903063-1562b0ce-277d-4428-8198-e910da92df29.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 53 10](https://user-images.githubusercontent.com/85328038/168903068-2d99fb23-f1d8-430d-aa91-e8762b8db173.png)
 
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 51 57](https://user-images.githubusercontent.com/85328038/168903077-1943e525-223b-4d21-b1be-3028e4a7a35c.png)
-![Simulator Screen Shot - iPhone 11 Pro Max - 2022-05-13 at 01 53 13](https://user-images.githubusercontent.com/85328038/168903085-c66896de-4807-44ba-aeba-150748f8542d.png)
+### Light appearance
+![Simulator Screen Shot - iPhone 12 Pro - 2022-08-31 at 12 42 43_iphone13red_portrait](https://user-images.githubusercontent.com/85328038/187745470-e15cfb60-5485-4518-bdf2-cf558eed5338.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2022-08-31 at 12 43 48_iphone13red_portrait](https://user-images.githubusercontent.com/85328038/187745504-705f05f5-4f40-45e6-8a61-b74e0605a40a.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2022-08-31 at 12 44 01_iphone13red_portrait](https://user-images.githubusercontent.com/85328038/187745520-71aab744-1450-4f74-b14c-2e43cb4b86cd.png)
 
-![Apple iPad Pro 13 Inch](https://user-images.githubusercontent.com/85328038/168958318-03102a42-8e04-421b-bd5c-d829145a60bf.png)
-![Apple iPad Pro 13 Inch (3)](https://user-images.githubusercontent.com/85328038/168958326-02dcc26b-0b31-44e6-95b4-a8c736ae630b.png)
+### Dark appearance
+![Simulator Screen Shot - iPhone 12 Pro - 2022-08-31 at 12 42 55_iphone13red_portrait](https://user-images.githubusercontent.com/85328038/187745538-0aa9d5cd-b6cc-4323-8914-ebaf349d5cba.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2022-08-31 at 12 43 55_iphone13red_portrait](https://user-images.githubusercontent.com/85328038/187745597-066e9b2f-e168-42bc-bee4-0732fb1f7743.png)
+![Simulator Screen Shot - iPhone 12 Pro - 2022-08-31 at 12 44 03_iphone13red_portrait](https://user-images.githubusercontent.com/85328038/187745616-17725dc1-0bfa-49a4-b267-aa90a0686ab9.png)
