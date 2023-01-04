@@ -7,7 +7,7 @@ Sudoku Puzzle Generator and Solver.
 - Sudoku Generator / Sudoku Solver
 - Google AdMob (Banner and Interstitial)
 - App Tracking Transparency
-- iOS / iPadOS
+- iOS / iPad Support
 - Custom Font Files
 
 
